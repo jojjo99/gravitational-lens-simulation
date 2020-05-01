@@ -1,3 +1,3 @@
 # gravitational lens simulation
-# Simulate how light propagate in the surrounding of a black hole.
+# Simulation of a gravitational lens.
 # /Johanna
